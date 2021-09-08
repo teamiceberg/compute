@@ -1,0 +1,26 @@
+In file included from /Users/shivamacpro/Desktop/EducationandProjects/boost-compute-library/compute/example/list_devices.cpp:13:
+In file included from /Users/shivamacpro/Desktop/EducationandProjects/boost-compute-library/compute/include/boost/compute/core.hpp:18:
+In file included from /Users/shivamacpro/Desktop/EducationandProjects/boost-compute-library/compute/include/boost/compute/buffer.hpp:14:
+In file included from /Users/shivamacpro/Desktop/EducationandProjects/boost-compute-library/compute/include/boost/compute/config.hpp:16:
+/Users/shivamacpro/Desktop/EducationandProjects/boost-compute-library/compute/include/boost/compute/cl.hpp:17:10: fatal error: 'OpenCL/cl.h' file not found
+#include <OpenCL/cl.h>
+         ^~~~~~~~~~~~~
+/Users/shivamacpro/Desktop/EducationandProjects/boost-compute-library/compute/include/boost/compute/cl.hpp:17:10: note: did not find header 'cl.h' in framework 'OpenCL' (loaded from '/System/Library/Frameworks')
+===-------------------------------------------------------------------------===
+                         Miscellaneous Ungrouped Timers
+===-------------------------------------------------------------------------===
+
+   ---User Time---   --System Time--   --User+System--   ---Wall Time---  --- Name ---
+   0.1113 (100.0%)   0.0070 (100.0%)   0.1183 (100.0%)   0.1208 (100.0%)  LLVM IR Generation Time
+   0.1113 (100.0%)   0.0070 (100.0%)   0.1183 (100.0%)   0.1208 (100.0%)  Total
+
+1 error generated.
+===-------------------------------------------------------------------------===
+                          Clang front-end time report
+===-------------------------------------------------------------------------===
+  Total Execution Time: 23.3985 seconds (23.4297 wall clock)
+
+   ---User Time---   --System Time--   --User+System--   ---Wall Time---  --- Name ---
+  23.1795 (100.0%)   0.2190 (100.0%)  23.3985 (100.0%)  23.4297 (100.0%)  Clang front-end timer
+  23.1795 (100.0%)   0.2190 (100.0%)  23.3985 (100.0%)  23.4297 (100.0%)  Total
+
